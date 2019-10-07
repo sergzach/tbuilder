@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: tbuilder
+Version: 0.0.1
+Summary: A tool to build and test python packages.
+Home-page: UNKNOWN
+Author: Sergey Zakharov
+Author-email: sergzach@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.0
